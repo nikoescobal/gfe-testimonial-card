@@ -54,7 +54,8 @@ img {
 
   :first-child {
     color: #171717;
-    font-weight: bold;
+    font-weight: 600;
+    font-size: 1.125rem;
   }
 
   :last-child {
